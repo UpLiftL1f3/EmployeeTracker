@@ -19,8 +19,6 @@ connection.connect(function (err) {
   startingQuestions();
 });
 
-// simple query
-
 // connect to database
 
 function startingQuestions() {
