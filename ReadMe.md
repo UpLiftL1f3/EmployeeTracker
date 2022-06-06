@@ -30,6 +30,12 @@
   [ UpLiftL1f3](https://github.com/UpLiftL1f3/EmployeeTracker)
   if you have any questions or concerns please reach out to the provided email address.
   gb@me.com
+  
+  #Video
+  
+  https://user-images.githubusercontent.com/84114299/172243753-c3f88823-ecf1-4ab5-abc7-04724a95305a.mp4
+
+
 
   
   
